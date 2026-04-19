@@ -1,6 +1,6 @@
 # 🤖 Claude AI Agent
 
-> **Portfolio project** – Średnio-zaawansowany AI Agent z narzędziami, pamięcią konwersacji i webowym UI.
+> **AI Agent z narzędziami, pamięcią konwersacji i webowym UI oparty na Claude API.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Anthropic](https://img.shields.io/badge/Powered%20by-Claude%20API-orange.svg)](https://anthropic.com)
