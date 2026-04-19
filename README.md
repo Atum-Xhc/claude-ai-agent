@@ -84,4 +84,6 @@ agent/
 
 ---
 
-*Projekt stworzony jako część portfolio Python AI/LLM/GenAI*
+*Projekt Python AI/LLM/GenAI*
+
+Atum-XHC
